@@ -1,0 +1,66 @@
+*{
+    margin: 0px ;
+    padding: 0px ;
+    box-sizing: border-box;
+}
+
+/* Blog Page */
+.hero-sec{
+    background-color: #000;
+    padding-top: 76px;
+    padding-bottom: 76px;
+}
+.hero-sec h1{
+    font-size: 48px;
+    text-align: center;
+    color: #fff;
+    font-weight: 700;
+}
+.cardss {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.card{
+    border: 0px solid #000!important;
+    height: 400px!important;
+    
+}
+
+/* details Page */
+.video-yt{
+    height:500px;
+    width:100%;
+}
+
+/* Category Page */
+.hero-sec{
+    background-color: #000;
+    padding-top: 76px;
+    padding-bottom: 76px;
+}
+.hero-sec h1{
+    font-size: 48px;
+    text-align: center;
+    color: #fff;
+    font-weight: 700;
+    text-transform: uppercase;
+
+}
+.cardss {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.card{
+    border: 0px!important;
+}
+
+  footer{
+    background-color: #000;
+    padding: 0px;
+  }
+  .f_link{
+    color: #fff !important;
+  }
+  .f_text{
+    color:#fff !important;
+  }

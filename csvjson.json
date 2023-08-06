@@ -1,0 +1,236 @@
+[
+  {
+    "id": 1,
+    "title": "Python Tutorial In Hindi",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "thumbnail_url": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1687589413/ihk_Xglr164-HD_ngrbul.jpg",
+    "video_link": "ihk_Xglr164",
+    "category": "python",
+    "bg_img": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1691266731/python_xqbbj7.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Python Tutorial for Beginners",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "thumbnail_url": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1687589547/vLqTf2b6GZw-HD_mu0kj1.jpg",
+    "video_link": "vLqTf2b6GZw",
+    "category": "python",
+    "bg_img": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1691266731/python_xqbbj7.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Python Full Tutorial for Beginners",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "thumbnail_url": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1687589642/sCOw5y1RQpY-HD_fhfie9.jpg",
+    "video_link": "sCOw5y1RQpY",
+    "category": "python",
+    "bg_img": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1691266731/python_xqbbj7.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Introduction to Python (Hindi)",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "thumbnail_url": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1687590070/iJblwyN0c0M-HD_hjslut.jpg",
+    "video_link": "iJblwyN0c0M",
+    "category": "python",
+    "bg_img": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1691266731/python_xqbbj7.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Python in one video",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "thumbnail_url": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1687590227/L5sZ6WgOnj0-HD_c6ddxf.jpg",
+    "video_link": "L5sZ6WgOnj0",
+    "category": "python",
+    "bg_img": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1691266731/python_xqbbj7.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Php Tutorial for Beginners in Hindi with MySQL Project",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "thumbnail_url": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1687590374/1SnPKhCdlsU-HD_rdjxm6.jpg",
+    "video_link": "1SnPKhCdlsU",
+    "category": "php",
+    "bg_img": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1691267013/php_rnkxnt.jpg"
+  },
+  {
+    "id": 7,
+    "title": "PHP Tutorial for Beginners",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "thumbnail_url": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1687590628/EJWw1bd0-C0-HD_pf2ras.jpg",
+    "video_link": "EJWw1bd0",
+    "category": "php",
+    "bg_img": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1691267013/php_rnkxnt.jpg"
+  },
+  {
+    "id": 8,
+    "title": "PHP TUTORIAL IN ONE VIDEO IN HINDI",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "thumbnail_url": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1687590751/3024Kc6SDJ0-HD_hmhyi2.jpg",
+    "video_link": "3024Kc6SDJ0",
+    "category": "php",
+    "bg_img": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1691267013/php_rnkxnt.jpg"
+  },
+  {
+    "id": 9,
+    "title": "PHP Full Course",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "thumbnail_url": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1687590954/6EukZDFE_Zg-HD_qq16jn.jpg",
+    "video_link": "6EukZDFE_Zg",
+    "category": "php",
+    "bg_img": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1691267013/php_rnkxnt.jpg"
+  },
+  {
+    "id": 10,
+    "title": "PHP Tutorial For Beginners In Hindi In One Video",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "thumbnail_url": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1687591087/PCuVLlnXXZY-HD_rmpj8o.jpg",
+    "video_link": "PCuVLlnXXZY",
+    "category": "php",
+    "bg_img": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1691267013/php_rnkxnt.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Java tutorial in hindi",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "thumbnail_url": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1687591311/rV_3Lewxx6o-HD_tjflbf.jpg",
+    "video_link": "rV_3Lewxx6o",
+    "category": "java",
+    "bg_img": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1691267013/java_oxkfxs.webp"
+  },
+  {
+    "id": 12,
+    "title": "Java Tutorial for Beginners",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "thumbnail_url": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1687591453/UmnCZ7-9yDY-HD_vsqu5t.jpg",
+    "video_link": "UmnCZ7",
+    "category": "java",
+    "bg_img": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1691267013/java_oxkfxs.webp"
+  },
+  {
+    "id": 13,
+    "title": "Java Full Course for Beginners",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "thumbnail_url": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1687591521/VZg5r9i90z0-HD_jrwdba.jpg",
+    "video_link": "VZg5r9i90z0",
+    "category": "java",
+    "bg_img": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1691267013/java_oxkfxs.webp"
+  },
+  {
+    "id": 14,
+    "title": "Java Tutorial in Hindi",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "thumbnail_url": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1687591595/aQatrXw0njs-HD_prswr3.jpg",
+    "video_link": "aQatrXw0njs",
+    "category": "java",
+    "bg_img": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1691267013/java_oxkfxs.webp"
+  },
+  {
+    "id": 15,
+    "title": "Java Tutorial For Beginners",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "thumbnail_url": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1687591656/wdkP056q0Nc-HD_tpfiwg.jpg",
+    "video_link": "wdkP056q0Nc",
+    "category": "java",
+    "bg_img": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1691267013/java_oxkfxs.webp"
+  },
+  {
+    "id": 16,
+    "title": "JavaScript Tutorial In Hindi",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "thumbnail_url": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1687591769/hKB-YGF14SY-HD_c4txbu.jpg",
+    "video_link": "hKB",
+    "category": "javascript",
+    "bg_img": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1691267014/javascript_a4nb2v.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Learn JavaScript in One Video",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "thumbnail_url": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1687591827/bRA0lemc3M0-HD_vqn3oh.jpg",
+    "video_link": "bRA0lemc3M0",
+    "category": "javascript",
+    "bg_img": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1691267014/javascript_a4nb2v.jpg"
+  },
+  {
+    "id": 18,
+    "title": "JavaScript Tutorial for Beginners",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "thumbnail_url": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1687591887/Kdz9J5vC4_o-HD_vxfs3b.jpg",
+    "video_link": "Kdz9J5vC4_o",
+    "category": "javascript",
+    "bg_img": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1691267014/javascript_a4nb2v.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Complete JavaScript Tutorial in Hindi",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "thumbnail_url": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1687591945/KGkiIBTq0y0-HD_vzqzyy.jpg",
+    "video_link": "KGkiIBTq0y0",
+    "category": "javascript",
+    "bg_img": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1691267014/javascript_a4nb2v.jpg"
+  },
+  {
+    "id": 20,
+    "title": "JavaScript Full Course for free",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "thumbnail_url": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1687592020/8dWL3wF_OMw-HD_lke3ij.jpg",
+    "video_link": "8dWL3wF_OMw",
+    "category": "javascript",
+    "bg_img": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1691267014/javascript_a4nb2v.jpg"
+  },
+  {
+    "id": 21,
+    "title": "CPP Tutorial For Beginners: Learn C Plus Plus In Hindi",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "thumbnail_url": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1687592585/yGB9jhsEsr8-HD_p0ewv9.jpg",
+    "video_link": "yGB9jhsEsr8",
+    "category": "cpp",
+    "bg_img": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1691267013/cpp_e52vng.avif"
+  },
+  {
+    "id": 22,
+    "title": "Complete cpp in One Shot",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "thumbnail_url": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1687592838/oi1ffu6lBXE-HD_rsbmmx.jpg",
+    "video_link": "oi1ffu6lBXE",
+    "category": "cpp",
+    "bg_img": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1691267013/cpp_e52vng.avif"
+  },
+  {
+    "id": 23,
+    "title": "C Programming Full Course for Beginners",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "thumbnail_url": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1687592981/XqJYFCL-enI-HD_q67wrf.jpg",
+    "video_link": "XqJYFCL",
+    "category": "cpp",
+    "bg_img": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1691267013/cpp_e52vng.avif"
+  },
+  {
+    "id": 24,
+    "title": "cpp Full Course for Beginners (Hindi)",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "thumbnail_url": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1687593179/HME2SrWWSYk-HD_1_bcn7yy.jpg",
+    "video_link": "HME2SrWWSYk",
+    "category": "cpp",
+    "bg_img": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1691267013/cpp_e52vng.avif"
+  },
+  {
+    "id": 25,
+    "title": "cpp Tutorial for Beginners - Learn cpp in 1 Hour",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "thumbnail_url": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1687593615/ZzaPdXTrSb8-HD_ijzvhu.jpg",
+    "video_link": "ZzaPdXTrSb8",
+    "category": "cpp",
+    "bg_img": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1691267013/cpp_e52vng.avif"
+  },
+  {
+    "id": 26,
+    "title": "CPP Tutorial For Beginners in Hindi",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "thumbnail_url": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1687593748/Umm1ZQ5ltZw-HD_isqren.jpg",
+    "video_link": "Umm1ZQ5ltZw",
+    "category": "CPP",
+    "bg_img": "https://res.cloudinary.com/dq4ix92xy/image/upload/v1691267013/cpp_e52vng.avif"
+  }
+]
